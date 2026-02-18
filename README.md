@@ -72,7 +72,14 @@ Reduced ability to recover deleted objects and limited audit visibility.
 Enable versioning, server access logging, and lifecycle policies.
 **Evidence:**
 
-![S3 Governance Gap](./Screen%20Shot%202026-02-17%20at%2010.13.25%20PM.png)
+**Evidence:**
+
+![S3 Governance Gap 1](./Screen%20Shot%202026-02-17%20at%2010.13.25%20PM.png)
+
+![S3 Governance Gap 2](./Screen%20Shot%202026-02-17%20at%2010.14.09%20PM.png)
+
+![S3 Governance Gap 3](./Screen%20Shot%202026-02-17%20at%2010.15.20%20PM.png)
+
 
 ---
 
