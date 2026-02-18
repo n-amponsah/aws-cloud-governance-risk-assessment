@@ -97,6 +97,11 @@ Public exposure increases risk of brute-force attacks and unauthorized access at
 
 **Recommendation:**  
 Restrict SSH access to trusted IP ranges and implement bastion host architecture where appropriate.
+**Evidence:**
+
+![Open SSH Security Group 1](./Screen%20Shot%202026-02-17%20at%2010.19.03%20PM.png)
+
+![Open SSH Security Group 2](./Screen%20Shot%202026-02-17%20at%2010.19.53%20PM.png)
 
 ---
 
